@@ -19,3 +19,5 @@ public class Ques1 {
     }
 
 }
+
+// it is the first one
